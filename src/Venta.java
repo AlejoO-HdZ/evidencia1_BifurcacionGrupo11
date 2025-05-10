@@ -7,11 +7,11 @@ public class Venta {
 
     // Constructor de la clase Venta
     public Venta(double monto, Vehiculo vehiculo, String apellido, String nombre, String documento) {
-        this.monto = ******;
+        this.monto = monto; // se reemplaza ****** con la variable correcta "monto"
         this.vehiculo = vehiculo;
         this.apellido = apellido;
-        this.nombre = ******;
-        this.***** = documento;
+        this.nombre = nombre; // se reemplaza ****** con la variable correcta "nombre"
+        this.documento = documento; // se reemplaza ****** con la atributo correcto "this.documento"
     }
 
     // Método toString para representar la venta en texto
