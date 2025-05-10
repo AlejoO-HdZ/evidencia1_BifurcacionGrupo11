@@ -11,7 +11,7 @@ public class Vehiculo {
         this.marca = marca;
         this.tipo = tipo;
         this.modelo = modelo;
-        this.kilometraje = ***********;
+        this.kilometraje = kilometraje; // Se corrige  el error con la asignación correcta
     }
 
     // Métodos getter para obtener los valores de los atributos
