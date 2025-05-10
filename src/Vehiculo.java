@@ -16,23 +16,23 @@ public class Vehiculo {
 
     // Métodos getter para obtener los valores de los atributos
     public String getCodigo() {
-        return ***********;
+        return codigo; // Se reemplaza ******* con "codigo" que es el atributo correcto
     }
 
     public String getMarca() {
-        return ***********;
+        return marca; // Se reemplaza ******* con "marca" que es el atributo correcto
     }
 
     public String getTipo() {
-        return ***********;
+        return tipo; // Se reemplaza ******* con "tipo" que es el atributo correcto
     }
 
     public int getModelo() {
-        return ***********;
+        return modelo; // Se reemplaza ******* con "modelo" que es el atributo correcto
     }
 
     public double getKilometraje() {
-        return ***********;
+        return kilometraje; // Se reemplaza ******* con "kilometraje" que es el atributo correcto
     }
 
     // Método toString para representar la información del vehículo en texto
